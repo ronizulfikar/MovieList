@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Movie List</string>
+    <string name="film_name">Nama Film</string>
+    <string name="genre">Genre</string>
+    <string name="rating">12473</string>
+    <string name="search">Search</string>
+    <string name="description">Deskripsi</string>
+    <string name="film_director">Director</string>
+    <string name="release">Tahun Rilis</string>
+    <string name="favorite">Favorites</string>
+    <string name="no_movie_found">Tidak ada film di database</string>
+    <string name="no_fav_movies">Anda belum menambahkan film ke daftar favorite</string>
+</resources>
